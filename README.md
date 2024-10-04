@@ -1,0 +1,3 @@
+- 👋 Hi, I’m W Minerva
+- 👀 I’m an enthusiast learner of Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Python language.
